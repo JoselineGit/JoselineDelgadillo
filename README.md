@@ -1,15 +1,15 @@
 # Hi, I'm Joseline Delgadillo 👋
 
-**Senior Associate Consultant | Community Engagement · Research & Evaluation · Program Management**  
-📍 Los Angeles, CA &nbsp;·&nbsp; 📧 Joseline7144@gmail.com &nbsp;·&nbsp; 📞 (925)286-5980
+**Senior Associate Consultant · Project Manager · Data Strategy Analyst**  
+📍 Los Angeles, CA &nbsp;·&nbsp; 📧 Joseline7144@gmail.com &nbsp;·&nbsp; 📞 (925) 286-5980 &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/joseline-delgadillo)
 
 ---
 
 ## About Me
 
-I'm a **bilingual (English/Spanish)** Data and projectmanagement strategist with 7+ years of experience consulting. My work lives at the intersection of community/user voic and data-driven strategy, helping foundations, government agencies, and for/nonprofits understand what community actually need and how to build programs around those needs.
+I'm a **bilingual (English/Spanish)** consultant and project manager with 7+ years of experience across social work, clinical research, and social impact consulting. I specialize in turning data into strategy — designing surveys, building Tableau dashboards, running qualitative research, and managing complex multi-stakeholder projects from start to finish.
 
-I believe good research starts with relationships, and that the strongest strategies are built on genuine community engagement.
+I work across the public and private sector, with deep roots in early childhood systems, community engagement, and communications. I also led my organization's adoption of AI tools (ChatGPT, Claude, Fireflies) — integrating them into live project workstreams to improve team efficiency and delivery.
 
 ---
 
@@ -17,47 +17,62 @@ I believe good research starts with relationships, and that the strongest strate
 
 | Area | What This Looks Like |
 |------|----------------------|
-| 🗣️ **Community Engagement** | Bilingual focus groups, parent interviews, provider convenings, stakeholder mapping |
-| 📊 **Research & Evaluation** | Qualitative & quantitative analysis, surveys, rapid cycle evaluation, Tableau dashboards |
-| 📋 **Project Management** | Cross-sector coordination, workplan development, deliverable tracking, meeting facilitation |
-| 🌱 **Technical Assistance** | Logic model development, needs assessments, journey mapping, data capacity building |
-| ✍️ **Communications** | Social Media Account Management, Reports, data briefs, translated/transcreated materials, campaign support |
+| 📊 **Data & Analysis** | Tableau dashboards, Tableau Prep Builder, survey design & analysis (15+ surveys, 500+ respondents), market research, campaign analytics |
+| 📋 **Project Management** | 8+ concurrent workstreams, $50K–$500K budget oversight, Mavenlink, workplan design, milestone tracking |
+| 🗣️ **Community Engagement** | Bilingual focus groups, parent interviews, provider convenings, multilingual outreach |
+| 📡 **Campaign Management** | Cross-channel campaigns generating 1.1M+ impressions, social media analytics (DashThis), Meta/Google ad management |
+| 🤖 **AI Integration** | Spearheaded org-wide AI tool adoption (ChatGPT, Claude, Fireflies) |
+| ✍️ **Strategic Communications** | Executive presentations, data briefs, reports, translated/transcreated materials |
+
+---
+
+## Tools & Systems
+
+`Tableau Desktop` `Tableau Prep Builder` `Qualtrics` `SurveyMonkey` `Google Analytics` `Meta Business Suite` `DashThis` `HubSpot` `Mavenlink` `Later` `Tremendous` `Microsoft Excel` `Google Workspace` `Slack` `ChatGPT` `Claude` `Fireflies`
+
+---
+
+## Work History
+
+### VIVA Social Impact Partners — Senior Associate Consultant *(April 2025 – Present)*
+- Project manager for 8+ high-impact engagements; $50K–$500K budget oversight via Mavenlink
+- Designed & analyzed 15+ surveys (500+ respondents) informing financial models, comms plans, and business strategy
+- Built interactive Tableau dashboards translating complex findings into executive-level narratives
+- Spearheaded org-wide AI tool integration (ChatGPT, Claude, Fireflies)
+
+### VIVA Social Impact Partners — Associate Consultant *(March 2023 – March 2025)*
+- Managed 5+ concurrent workstreams with $50K–$200K budgets
+- Led 3+ multilingual, cross-channel campaigns generating **1.1M+ impressions** for a new public agency
+- Produced social media analytics reports via DashThis for 3 public/nonprofit agencies
+- Managed 3 client social media platforms using Later for content scheduling
+
+### UCSF — Clinical Research Coordinator *(Oct 2021 – Feb 2023)*
+- Oversaw multiple concurrent research projects end-to-end
+- Led cross-functional team of 5–10 through structured weekly cadences
+- Contributed to mobile app development; led usability testing
+
+### UCSF — Social Work Associate *(Dec 2018 – Sep 2021)*
+- Built a research database streamlining data collection and reporting
+- Designed and deployed Qualtrics surveys; drove participant recruitment and enrollment
 
 ---
 
 ## Selected Projects
 
-### 🏛️ Foundations & Government
-- **David & Lucile Packard Foundation** — Led 15 bilingual parent interviews across 3 CA counties; produced case studies on families navigating health, child, and financial assistance systems
-- **First 5 LA (Help Me Grow Pathways)** — Provided technical assistance to 7 community-based organizations across Los Angeles; built Tableau dashboards and a full evaluation report
-- **First 5 LA / LA Care** — Managed 3 rounds of Rapid Cycle Evaluation across 10+ data sources
-- **San Francisco Dept. of Early Childhood** — Designed and facilitated community engagement strategy; coordinated citywide campaigns (Week of the Young Child, ELSF, Workforce Compensation)
-- **First 5 San Mateo County (Baby Bonus)** — Conducted Spanish-language parent focus groups to inform a Medi-Cal cash-aid pilot program design
+### 🏛️ Research & Evaluation
+- **First 5 LA / LA Care — Help Me Grow Pathways** — Managed data collection across 10+ sources for 3 RCE cycles; built Tableau dashboards and a full evaluation report for 7 CBOs across Los Angeles
+- **David & Lucile Packard Foundation — MCH Landscape Assessment** — Led 15 bilingual parent interviews across 3 CA counties; produced 15 case studies informing system-level strategy
+- **First 5 Santa Clara — Quality Matters** — Designed learning questions, interview protocols, and 5 educator journey maps
 
 ### 🗺️ Roadmaps & Strategic Planning
-- **Ventura County Community Foundation / City of Santa Paula** — Multilingual community engagement; presented Early Learning Roadmap findings to Steering Committee in Spanish
-- **Marin Community Foundation** — Co-facilitated English/Spanish family focus groups for Marin County Early Learning Systems Roadmap
-- **First 5 San Bernardino (QSSB)** — Co-designed stakeholder engagement framework for Quality Start strategic plan update
+- **Ventura County / City of Santa Paula — Early Learning Roadmap** — Multilingual community engagement; presented findings to Steering Committee in Spanish
+- **First 5 San Bernardino — QSSB Strategic Plan** — Co-designed stakeholder engagement framework; managed cross-workstream coordination
+- **Marin Community Foundation — Early Learning Systems Roadmap** — Bilingual family focus groups across Marin County
 
-### 👨‍👩‍👧 Family & Community Voice
-- **First 5 Santa Clara (Quality Matters)** — Recruited and facilitated educator interviews; developed 5 journey maps of educator experiences
-- **First 5 Yolo County** — Designed and facilitated fatherhood focus groups to center fathers' voices in early program design
-- **First 5 Marin (Help Me Grow)** — Bilingual parent/caregiver focus groups; synthesized findings into family needs report
-
-### 🔧 Communications & Coordination
-- **4C's of San Mateo (UPK)** — Bilingual provider focus groups on Universal Pre-K implementation
-- **NEO Philanthropy (Funders for Family Leadership)** — End-to-end conference and webinar project management
-- **Emerging Bilingual Collaborative** — Project coordination for website development
-
----
-
-## Prior Experience
-
-**Clinical Research Coordinator — UCSF** *(2021–2023)*  
-Primary coordinator across multiple clinical research studies. Collected and analyzed data; prepared IRB and funder reports; conducted focus groups and qualitative interviews.
-
-**Social Work Associate — UCSF** *(2018–2021)*  
-Intensive case management for systems-impacted and immigrant youth. Needs assessments, referral linkages, Qualtrics survey design, client database development.
+### 📣 Campaigns & Communications
+- **SF Dept. of Early Childhood** — Coordinated launch of the Week of the Young Child, Early Learning SF, and Workforce Compensation campaign; managed vendor and cross-channel execution
+- **First 5 Yolo — Fatherhood Focus Group** — Designed and facilitated focus group centering fathers' voices to inform inclusive family support service design
+- **First 5 San Mateo — Baby Bonus** — Conducted Spanish-language parent focus groups to inform a Medi-Cal cash-aid pilot program
 
 ---
 
@@ -67,18 +82,14 @@ Intensive case management for systems-impacted and immigrant youth. Needs assess
 
 ---
 
-## Skills & Tools
+## Languages
 
-**Languages:** English (native) · Spanish (bilingual/professional)  
-**Research:** Qualitative & quantitative methods · Focus group design · Survey design (Qualtrics) · RCE  
-**Data & Visualization:** Tableau · Data briefs · Analysis across mixed data sources  
-**PM & Strategy:** Logic models · Workplan management · Cross-sector coordination  
-**Tech:** Microsoft Office Suite · Google Workspace · Qualtrics · Tableau
+🌎 **English** (native) · **Spanish** (bilingual / professional)
 
 ---
 
 ## Let's Connect
 
-I'm passionate about centering community voices in research and policy — especially for families with young children, immigrant communities, and historically underserved populations. If you're working on something in that space, I'd love to connect.
+I'm passionate about work that centers community voices, uses data to drive real decisions, and builds systems that actually serve families. If you're working on something in that space — or looking for someone who can bridge research, strategy, and execution — I'd love to connect.
 
-📧 **Joseline@vivasocialimpact.com**
+📧 **Joseline7144@gmail.com**
