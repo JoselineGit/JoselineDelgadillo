@@ -7,9 +7,9 @@
 
 ## About Me
 
-I'm a **bilingual (English/Spanish)** consultant and project manager with 7+ years of experience across social work, clinical research, and social impact consulting. I specialize in turning data into strategy — designing surveys, building Tableau dashboards, running qualitative research, and managing complex multi-stakeholder projects from start to finish.
+I'm a **bilingual (English/Spanish)** consultant and project manager with 7+ years of experience across social work, clinical research, and social impact consulting. I specialize in turning data into strategy, designing surveys, building Tableau dashboards, running qualitative research, and managing complex multi-stakeholder projects from start to finish.
 
-I work across the public and private sector, with deep roots in early childhood systems, community engagement, and communications. I also led my organization's adoption of AI tools (ChatGPT, Claude, Fireflies) — integrating them into live project workstreams to improve team efficiency and delivery.
+I work across the public and private sector, with deep roots in early childhood systems, community engagement, and communications. I also led my organization's adoption of AI tools (ChatGPT, Claude, Fireflies), integrating them into live project workstreams to improve team efficiency and delivery.
 
 ---
 
@@ -90,6 +90,6 @@ I work across the public and private sector, with deep roots in early childhood 
 
 ## Let's Connect
 
-I'm passionate about work that centers community voices, uses data to drive real decisions, and builds systems that actually serve families. If you're working on something in that space — or looking for someone who can bridge research, strategy, and execution — I'd love to connect.
+I'm passionate about work that centers community voices, uses data to drive real decisions, and builds systems that actually serve families. If you're working on something in that space, or looking for someone who can bridge research, strategy, and execution — I'd love to connect.
 
 📧 **Joseline7144@gmail.com**
