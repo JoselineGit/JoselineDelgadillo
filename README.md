@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a **bilingual (English/Spanish)** social impact consultant with 7+ years of experience in social work, clinical research, and community-centered consulting. My work lives at the intersection of community voice, early childhood systems, and data-driven strategy — helping foundations, government agencies, and nonprofits understand what families actually need and how to build programs around those needs.
+I'm a **bilingual (English/Spanish)** Data and projectmanagement strategist with 7+ years of experience consulting. My work lives at the intersection of community/user voic and data-driven strategy, helping foundations, government agencies, and for/nonprofits understand what community actually need and how to build programs around those needs.
 
 I believe good research starts with relationships, and that the strongest strategies are built on genuine community engagement.
 
@@ -21,7 +21,7 @@ I believe good research starts with relationships, and that the strongest strate
 | 📊 **Research & Evaluation** | Qualitative & quantitative analysis, surveys, rapid cycle evaluation, Tableau dashboards |
 | 📋 **Project Management** | Cross-sector coordination, workplan development, deliverable tracking, meeting facilitation |
 | 🌱 **Technical Assistance** | Logic model development, needs assessments, journey mapping, data capacity building |
-| ✍️ **Communications** | Reports, data briefs, translated/transcreated materials, campaign support |
+| ✍️ **Communications** | Social Media Account Management, Reports, data briefs, translated/transcreated materials, campaign support |
 
 ---
 
