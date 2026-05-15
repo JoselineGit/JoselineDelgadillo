@@ -1,7 +1,7 @@
 # Hi, I'm Joseline Delgadillo 👋
 
 **Senior Associate Consultant | Community Engagement · Research & Evaluation · Program Management**  
-📍 San Mateo, CA &nbsp;·&nbsp; 📧 Joseline@vivasocialimpact.com &nbsp;·&nbsp; 📞 (650) 517-6142
+📍 Los Angeles, CA &nbsp;·&nbsp; 📧 Joseline7144@gmail.com &nbsp;·&nbsp; 📞 (925)286-5980
 
 ---
 
