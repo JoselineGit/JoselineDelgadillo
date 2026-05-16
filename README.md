@@ -7,9 +7,9 @@
 
 ## About Me
 
-I'm a **bilingual (English/Spanish)** consultant and project manager with 7+ years of experience across social work, clinical research, and social impact consulting. I specialize in turning data into strategy, designing surveys, building Tableau dashboards, running qualitative research, and managing complex multi-stakeholder projects from start to finish.
+I'm a **bilingual (English/Spanish)** consultant and project manager with 7+ years of experience across Data, Strategy and Communications and Marketing. I specialize in turning data into strategy, survey design and analysis, Tableau dashboards automation, qualitative research, and managing complex multi-stakeholder projects from start to finish.
 
-I work across the public and private sector, with deep roots in early childhood systems, community engagement, and communications. I also led my organization's adoption of AI tools (ChatGPT, Claude, Fireflies), integrating them into live project workstreams to improve team efficiency and delivery.
+I work across the public and private sector, with deep roots in systemic planning and partnership building, community engagement and communications.
 
 ---
 
@@ -17,12 +17,12 @@ I work across the public and private sector, with deep roots in early childhood 
 
 | Area | What This Looks Like |
 |------|----------------------|
-| 📊 **Data & Analysis** | Tableau dashboards, Tableau Prep Builder, survey design & analysis (15+ surveys, 500+ respondents), market research, campaign analytics |
+| 📊 **Data & Analysis** | Tableau dashboards, Tableau Prep Builder, survey design & analysis (15+ surveys, 500+ respondents), market research, campaign analytics, data briefs |
 | 📋 **Project Management** | 8+ concurrent workstreams, $50K–$500K budget oversight, Mavenlink, workplan design, milestone tracking |
 | 🗣️ **Community Engagement** | Bilingual focus groups, parent interviews, provider convenings, multilingual outreach |
-| 📡 **Campaign Management** | Cross-channel campaigns generating 1.1M+ impressions, social media analytics (DashThis), Meta/Google ad management |
+| 📡 **Campaign Management** | Cross-channel campaigns generating 1.1M+ impressions, social media analytics (DashThis + Later), Meta/Google ad management |
 | 🤖 **AI Integration** | Spearheaded org-wide AI tool adoption (ChatGPT, Claude, Fireflies) |
-| ✍️ **Strategic Communications** | Executive presentations, data briefs, reports, translated/transcreated materials |
+| ✍️ **Strategic Communications** | Executive presentations, reports, Strategic plans, roadmaps and communication plans translated/transcreated materials |
 
 ---
 
@@ -61,18 +61,18 @@ I work across the public and private sector, with deep roots in early childhood 
 
 ### 🏛️ Research & Evaluation
 - **First 5 LA / LA Care — Help Me Grow Pathways** — Managed data collection across 10+ sources for 3 RCE cycles; built Tableau dashboards and a full evaluation report for 7 CBOs across Los Angeles
-- **David & Lucile Packard Foundation — MCH Landscape Assessment** — Led 15 bilingual parent interviews across 3 CA counties; produced 15 case studies informing system-level strategy
-- **First 5 Santa Clara — Quality Matters** — Designed learning questions, interview protocols, and 5 educator journey maps
+- **David & Lucile Packard Foundation — MCH Landscape Assessment** — Led 15 bilingual parent interviews across 3 CA counties; produced 15 case studies informing system-level strategy, landscape analysis across three seperate counties in CA, and led drafting of a 70 page report 
+- **First 5 Santa Clara — Quality Matters** — Designed learning questions, interview protocols, and 5 educator journey maps outlining their program experience
 
 ### 🗺️ Roadmaps & Strategic Planning
-- **Ventura County / City of Santa Paula — Early Learning Roadmap** — Multilingual community engagement; presented findings to Steering Committee in Spanish
-- **First 5 San Bernardino — QSSB Strategic Plan** — Co-designed stakeholder engagement framework; managed cross-workstream coordination
+- **Ventura County / City of Santa Paula — Early Learning Roadmap** — Multilingual community engagement engaging in three seperate focus groups and 20 interviews; presented findings to Steering Committee in Spanish
+- **First 5 San Bernardino — QSSB Strategic Plan** — Co-designed stakeholder engagement framework; strategic plan; managed cross-workstream coordination
 - **Marin Community Foundation — Early Learning Systems Roadmap** — Bilingual family focus groups across Marin County
 
 ### 📣 Campaigns & Communications
-- **SF Dept. of Early Childhood** — Coordinated launch of the Week of the Young Child, Early Learning SF, and Workforce Compensation campaign; managed vendor and cross-channel execution
+- **SF Dept. of Early Childhood** — Coordinated launch of the Week of the Young Child, Early Learning SF, and Workforce Compensation campaign; managed vendor and cross-channel execution that resulted in 1.1+ million impressions across buildboards, bus ads, and social media 
 - **First 5 Yolo — Fatherhood Focus Group** — Designed and facilitated focus group centering fathers' voices to inform inclusive family support service design
-- **First 5 San Mateo — Baby Bonus** — Conducted Spanish-language parent focus groups to inform a Medi-Cal cash-aid pilot program
+- **First 5 San Mateo — Baby Bonus** — Conducted English and Spanish-language parent focus groups to inform a Medi-Cal cash-aid pilot program 
 
 ---
 
@@ -84,12 +84,10 @@ I work across the public and private sector, with deep roots in early childhood 
 
 ## Languages
 
-🌎 **English** (native) · **Spanish** (bilingual / professional)
+🌎 **English** (native) · **Spanish** (Fluent/ professional)
 
 ---
 
 ## Let's Connect
-
-I'm passionate about work that centers community voices, uses data to drive real decisions, and builds systems that actually serve families. If you're working on something in that space, or looking for someone who can bridge research, strategy, and execution — I'd love to connect.
 
 📧 **Joseline7144@gmail.com**
