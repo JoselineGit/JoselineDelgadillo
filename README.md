@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a **bilingual (English/Spanish)** consultant and project manager with 7+ years of experience across Data, Strategy and Communications and Marketing. I specialize in turning data into strategy, survey design and analysis, Tableau dashboards automation, qualitative research, and managing complex multi-stakeholder projects from start to finish.
+I'm a **bilingual (English/Spanish)** consultant and project manager with 8+ years of experience across Data, Strategy and Communications and Marketing. I specialize in turning data into strategy, survey design and analysis, Tableau dashboards automation, qualitative research, and managing complex multi-stakeholder projects from start to finish.
 
 I work across the public and private sector, with deep roots in systemic planning and partnership building, community engagement and communications.
 
