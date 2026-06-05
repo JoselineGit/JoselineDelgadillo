@@ -1,4 +1,4 @@
-# Hi, I'm Joseline Delgadillo 👋
+# Hi, I'm Joseline Delgadillo 
 
 **Senior Associate Consultant · Project Manager · Data Strategy Analyst**  
 📍 Los Angeles, CA &nbsp;·&nbsp; 📧 Joseline7144@gmail.com &nbsp;·&nbsp; 📞 (925) 286-5980 &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/joseline-delgadillo)
